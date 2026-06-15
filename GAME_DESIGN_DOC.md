@@ -205,11 +205,28 @@ Key requirements from tech stack:
 ---
 
 ## 📝 Open Questions
-- What engine? (Phase 1 decision)
-- Multiplayer from the start or added later?
-- How many factions at launch?
-- What is the starting planet always like? (Tutorial design)
-- Name of the game?
+-## World Details
+
+**Starting Planet:** Verath
+- Alien jungle biome
+- Green and purple colour palette
+- Ancient, overgrown feel
+- Dense flora, high humidity atmosphere
+
+**Faction 1 — The Remnant**
+- Military survivors of a collapsed galactic government
+- Disciplined, heavily armed
+- Goal: restore order through force
+
+**Faction 2 — The Free Colonies**
+- Rebel colonists who broke from the government
+- Scrappy, resourceful
+- Goal: full independence from any central power
+
+**Player**
+- Arrives on Verath as an outsider
+- Neither faction trusts you at the start
+- Can ally, betray, or oppose either faction
 
 ---
 
